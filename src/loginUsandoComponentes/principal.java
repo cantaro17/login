@@ -5,16 +5,12 @@
  */
 package loginUsandoComponentes;
 
-import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.util.Calendar;
-import java.util.GregorianCalendar;
 import java.util.Random;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.Icon;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
@@ -25,7 +21,7 @@ import javax.swing.JOptionPane;
  *
  * @author Jhon
  */
-public class principal extends JFrame implements Runnable{
+public class principal extends JFrame{
 
     Icon imagen;
     JLabel contener_imagen;
@@ -77,40 +73,8 @@ public class principal extends JFrame implements Runnable{
             }
         });
     }
-    
-    
-    
+          
     public static void main(String[] args) {
         new principal().setVisible(true);
-    }
-
-    @Override
-    public void run() {
-        Thread ct = Thread.currentThread();
-        while (ct == h1) {
-            Calendar calendar = new GregorianCalendar();
-                
-            try {
-                Thread.sleep(1000);
-                r = aleatorio.nextInt(255);
-                g = aleatorio.nextInt(255);
-                b = aleatorio.nextInt(255);
-                
-                posx = aleatorio.nextInt(getWidth());
-                posy = aleatorio.nextInt(getHeight());
-                        
-                if(posx > (getWidth() - 500)){
-                    posx = getWidth() - 500;
-                }
-                if(posy < 60){
-                    posy = posy + 60;
-                }
-                lbbienvenido.setBounds(posx, posy, 500, 60);
-                lbbienvenido.setForeground(new Color(r, g, b));
-            } catch (InterruptedException ex) {
-                Logger.getLogger(principal.class.getName()).log(Level.SEVERE, null, ex);
-            }
-             
-        }
     }
 }
