@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.2" sequence="0" timestamp="1525190966566" analysisTimestamp="1525191173349" release="">
+  <Project>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\JComboMejorado.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\JPanelRound.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\JPanelTransparente.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\JPasswordMejorado.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\JTextfieldMejorado.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\NewJFrame.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\NewJFrame$1.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\login.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\login$1.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\login$2.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\login$3.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\login$4.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\login$5.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\ordenamientoGUI.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\ordenamientoGUI$1.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\ordenamientoGUI$2.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\principal.class</Jar>
+    <Jar>D:\document\NetBeansProjects\login\build\classes\loginUsandoComponentes\principal$1.class</Jar>
+    <AuxClasspathEntry>D:\document\NetBeansProjects\login\build\classes</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\Program Files\NetBeans 8.2\java\modules\ext\AbsoluteLayout.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\document\NetBeansProjects\login\lib\PlaceHolder.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\document\NetBeansProjects\login\.sonar\findbugs\annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>D:\document\NetBeansProjects\login\.sonar\findbugs\jsr305.jar</AuxClasspathEntry>
+    <WrkDir>D:\document\NetBeansProjects\login\.sonar</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Tue, 1 May 2018 16:09:26 +0000" total_classes="18" referenced_classes="464" total_bugs="0" total_size="890" num_packages="1" java_version="1.8.0_141" vm_version="25.141-b15" cpu_seconds="31.91" clock_seconds="15.46" peak_mbytes="418.65" alloc_mbytes="878.50" gc_seconds="0.21">
+    <FileStats path="loginUsandoComponentes/JComboMejorado.java" bugCount="0" size="53"/>
+    <FileStats path="loginUsandoComponentes/JPanelRound.java" bugCount="0" size="57"/>
+    <FileStats path="loginUsandoComponentes/JPanelTransparente.java" bugCount="0" size="19"/>
+    <FileStats path="loginUsandoComponentes/JPasswordMejorado.java" bugCount="0" size="53"/>
+    <FileStats path="loginUsandoComponentes/JTextfieldMejorado.java" bugCount="0" size="53"/>
+    <FileStats path="loginUsandoComponentes/NewJFrame.java" bugCount="0" size="50"/>
+    <FileStats path="loginUsandoComponentes/login.java" bugCount="0" size="413"/>
+    <FileStats path="loginUsandoComponentes/ordenamientoGUI.java" bugCount="0" size="121"/>
+    <FileStats path="loginUsandoComponentes/principal.java" bugCount="0" size="71"/>
+    <PackageStats package="loginUsandoComponentes" total_bugs="0" total_types="18" total_size="890">
+      <ClassStats class="loginUsandoComponentes.JComboMejorado" sourceFile="JComboMejorado.java" interface="false" size="53" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.JPanelRound" sourceFile="JPanelRound.java" interface="false" size="57" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.JPanelTransparente" sourceFile="JPanelTransparente.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.JPasswordMejorado" sourceFile="JPasswordMejorado.java" interface="false" size="53" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.JTextfieldMejorado" sourceFile="JTextfieldMejorado.java" interface="false" size="53" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.NewJFrame" sourceFile="NewJFrame.java" interface="false" size="44" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.NewJFrame$1" sourceFile="NewJFrame.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.login" sourceFile="login.java" interface="false" size="292" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.login$1" sourceFile="login.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.login$2" sourceFile="login.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.login$3" sourceFile="login.java" interface="false" size="29" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.login$4" sourceFile="login.java" interface="false" size="64" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.login$5" sourceFile="login.java" interface="false" size="8" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.ordenamientoGUI" sourceFile="ordenamientoGUI.java" interface="false" size="108" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.ordenamientoGUI$1" sourceFile="ordenamientoGUI.java" interface="false" size="7" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.ordenamientoGUI$2" sourceFile="ordenamientoGUI.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.principal" sourceFile="principal.java" interface="false" size="62" bugs="0"/>
+      <ClassStats class="loginUsandoComponentes.principal$1" sourceFile="principal.java" interface="false" size="9" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="2945" invocations="1952" avgMicrosecondsPerInvocation="1508" maxMicrosecondsPerInvocation="150912" standardDeviationMicrosecondsPerInvocation="5444"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="960" invocations="1948" avgMicrosecondsPerInvocation="492" maxMicrosecondsPerInvocation="169006" standardDeviationMicrosecondsPerInvocation="4226"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="754" invocations="464" avgMicrosecondsPerInvocation="1626" maxMicrosecondsPerInvocation="179361" standardDeviationMicrosecondsPerInvocation="8795"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="630" invocations="464" avgMicrosecondsPerInvocation="1358" maxMicrosecondsPerInvocation="33055" standardDeviationMicrosecondsPerInvocation="3493"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="341" invocations="981" avgMicrosecondsPerInvocation="348" maxMicrosecondsPerInvocation="14250" standardDeviationMicrosecondsPerInvocation="916"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="266" invocations="464" avgMicrosecondsPerInvocation="573" maxMicrosecondsPerInvocation="84075" standardDeviationMicrosecondsPerInvocation="4104"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="212" invocations="464" avgMicrosecondsPerInvocation="457" maxMicrosecondsPerInvocation="126703" standardDeviationMicrosecondsPerInvocation="5983"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="181" invocations="95" avgMicrosecondsPerInvocation="1906" maxMicrosecondsPerInvocation="44664" standardDeviationMicrosecondsPerInvocation="5988"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="172" invocations="90" avgMicrosecondsPerInvocation="1912" maxMicrosecondsPerInvocation="46782" standardDeviationMicrosecondsPerInvocation="7094"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="171" invocations="464" avgMicrosecondsPerInvocation="369" maxMicrosecondsPerInvocation="33646" standardDeviationMicrosecondsPerInvocation="1732"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="167" invocations="464" avgMicrosecondsPerInvocation="361" maxMicrosecondsPerInvocation="64705" standardDeviationMicrosecondsPerInvocation="3388"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="157" invocations="567" avgMicrosecondsPerInvocation="278" maxMicrosecondsPerInvocation="39994" standardDeviationMicrosecondsPerInvocation="2160"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteSuppressedWarnings" totalMilliseconds="142" invocations="464" avgMicrosecondsPerInvocation="306" maxMicrosecondsPerInvocation="123313" standardDeviationMicrosecondsPerInvocation="5717"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="139" invocations="90" avgMicrosecondsPerInvocation="1548" maxMicrosecondsPerInvocation="25472" standardDeviationMicrosecondsPerInvocation="4096"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="119" invocations="90" avgMicrosecondsPerInvocation="1331" maxMicrosecondsPerInvocation="19751" standardDeviationMicrosecondsPerInvocation="3198"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="110" invocations="464" avgMicrosecondsPerInvocation="238" maxMicrosecondsPerInvocation="54890" standardDeviationMicrosecondsPerInvocation="2558"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
